@@ -9,7 +9,7 @@
 
 body {
     text-align: center; 
-    background-image: url(images/pattern.jpg);
+    background-image: url(../images/pattern.jpg);
     background-attachment: fixed;
 }
 
@@ -25,7 +25,7 @@ body {
     margin: 0 auto;
     width: 150px;
     padding: 180px;
-    background-image: url(images/gift-png.png);
+    background-image: url(../images/gift-png.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
